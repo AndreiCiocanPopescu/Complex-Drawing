@@ -1,0 +1,1 @@
+I've had quite a bit of fun with this project. I learned how to stich sprites  together. It was quite fun to draw all the pieces. It was a bit challenging to align all the sprites together, but I managed.
